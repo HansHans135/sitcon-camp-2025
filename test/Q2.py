@@ -1,3 +1,4 @@
-name =
+x = input()
+y = input()
 
-print("你好")
+print("x + y = ")

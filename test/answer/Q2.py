@@ -1,3 +1,4 @@
-name = input("你的名子：")
+x = int(input("x = "))
+y = int(input("y = "))
 
-print("你好 " + name)
+print("x + y = " + str(x + y))
