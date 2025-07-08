@@ -1,4 +1,4 @@
 x = input()
 y = input()
 
-print("x + y = ")
+print(f"x + y = ")
